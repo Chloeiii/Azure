@@ -37,3 +37,23 @@ Virtualization benefits
     - Rapid provisioning of VMs
     - Easy provisioning of VMs
 
+----
+
+Azure Iaas (Intrastructure as a Service)
+
+(Applies to IT administrators)
+
+examples:
+- storage
+- virtual machines
+- Cloud virtual network configurations
+  - VNets and subnets
+  - Load balancers
+  - IP address, route tables
+  
+----
+
+Azure Paas (Platform as a Service)
+
+(Applies to IT administrators and developers)
+

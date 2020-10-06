@@ -1,59 +1,8 @@
-# Azure
-AZ Fundamentals and AZ Administrator
+# Azure :cloud:
 ----
+What is Azure?
 
-Cloud Computing
 
-    Computing services made available over a network such as the Internet
+The Azure cloud platform is more than 200 products and cloud services designed to help you bring new solutions to life—to solve today’s challenges and create the future. Build, run, and manage applications across multiple clouds, on-premises, and at the edge, with the tools and frameworks of your choice.
 
-Cloud Computing Characteristics
-
-    - Resource Pooling
-    - Rapid elasticity
-    - Metered usage
-    - Broad access
-    - Self-provisioning
-    
-Could Computing benefits
-
-    - no up-front capital expenditure
-    - Cloud provider security accreditations
-    - Quick IT solution deployment
-    - Underlying technical complexities are hidden
-    - Less on-premises space, power, HVAC
-
-----
-
-Virtualization types
-
-    1. Operating system
-    2. Application
-    3. Networking (Sofware Defined Networking (SDN))
-    4. Desktop
-
-Virtualization benefits
-
-    - Cloud tenant isolation
-    - Rapid provisioning of VMs
-    - Easy provisioning of VMs
-
-----
-
-Azure Iaas (Intrastructure as a Service)
-
-(Applies to IT administrators)
-
-examples:
-- storage
-- virtual machines
-- Cloud virtual network configurations
-  - VNets and subnets
-  - Load balancers
-  - IP address, route tables
-  
-----
-
-Azure Paas (Platform as a Service)
-
-(Applies to IT administrators and developers)
-
+[AZ Fundamentals and AZ Administrator](AZ%20Fundamentals%20and%20AZ%20Administrator.md)

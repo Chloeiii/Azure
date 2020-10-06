@@ -55,3 +55,28 @@ examples:
 Azure Paas (Platform as a Service)
 
 (Applies to IT administrators and developers)
+
+examples:
+- Azure Active Directory (AAD)
+- Azure SQL Database
+- Azure search
+- Azure Content Delivery Network (CDN)
+
+----
+
+Azure Saas (Software as a Service)
+
+(Applies primarily to end users)
+
+examples:
+- Cloud-based
+	- E-mail
+	- Calendaring
+	- Office productivity such as Office 365
+
+----
+
+
+
+
+

@@ -1,4 +1,4 @@
-AZ Fundamentals and AZ Administrator
+AZ Fundamentals: Cloud Computing
 ----
 
 Cloud Computing

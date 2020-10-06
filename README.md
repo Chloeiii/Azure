@@ -1,2 +1,39 @@
 # Azure
 AZ Fundamentals and AZ Administrator
+----
+
+Cloud Computing
+
+    Computing services made available over a network such as the Internet
+
+Cloud Computing Characteristics
+
+    - Resource Pooling
+    - Rapid elasticity
+    - Metered usage
+    - Broad access
+    - Self-provisioning
+    
+Could Computing benefits
+
+    - no up-front capital expenditure
+    - Cloud provider security accreditations
+    - Quick IT solution deployment
+    - Underlying technical complexities are hidden
+    - Less on-premises space, power, HVAC
+
+----
+
+Virtualization types
+
+    1. Operating system
+    2. Application
+    3. Networking (Sofware Defined Networking (SDN))
+    4. Desktop
+
+Virtualization benefits
+
+    - Cloud tenant isolation
+    - Rapid provisioning of VMs
+    - Easy provisioning of VMs
+

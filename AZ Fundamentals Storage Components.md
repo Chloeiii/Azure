@@ -17,3 +17,8 @@ Storage Account -> Containers -> BLOBs
 ----
 #### Azure Key Vult
 store: keys, secrets (like keepass), certificates :innocent:
+
+----
+#### Azure File access
+
+PORT 445

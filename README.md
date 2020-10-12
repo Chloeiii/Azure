@@ -8,3 +8,5 @@ The Azure cloud platform is more than 200 products and cloud services designed t
 [AZ Fundamentals: Cloud Computing](AZ%20Fundamentals%20Cloud%20Computing.md)  
 [AZ Fundamentals: The Ecosystem](AZ%20Fundamentals%20The%20Ecosystem.md)  
 [AZ Fundamentals: Storage Components](AZ%20Fundamentals%20Storage%20Components.md)
+[AZ Fundamentals: Network Components](AZ%20Fundamentals%20Network%20Components.md)
+

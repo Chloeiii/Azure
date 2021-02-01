@@ -6,9 +6,15 @@ AZ Fundamentals: Azure Network Security
 - Threat intelligence can alert on and deny traffic
 
 
----
-#### Configure Azure Firewall
-1. create a firewall
-2. create a route table
-3. associate the route table to the subnet
-4. create a route (need the private IP of the firewall)
+----
+#### Update the Firewall Rules
+locate the firewall -> Rules -> Add application Rule collection ->create
+
+		e.g. 
+		Name: 			AllowCNN
+		Source 			Addresses: *
+		Protocol/ Port: http, https
+		Target FQDNS:  	*.cnn.com
+----
+Azure DDoS - Distributed Denial of Service   
+Azure NDGs - Network Security Groups (Allow and Deny actions)

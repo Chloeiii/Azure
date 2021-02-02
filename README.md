@@ -15,3 +15,4 @@ The Azure cloud platform is more than 200 products and cloud services designed t
 [AZ Fundamentals: IoT & AI](AZ%20Fundamentals%20IoT%20&%20AI.md)  
 [AZ Fundamentals: Azure Data Privacy](AZ%20Fundamentals%20Azure%20Data%20Privacy.md)  
 [AZ Fundamentals: Azure Network Security](AZ%20Fundamentals%20Azure%20Network%20Security.md)
+[AZ Fundamentals: Azure Security Services](AZ%20Fundamentals%20Azure%20Security%20Services.md)

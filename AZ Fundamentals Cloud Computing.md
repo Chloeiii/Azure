@@ -3,15 +3,15 @@ AZ Fundamentals: Cloud Computing
 
 Cloud Computing
 
-    Computing services made available over a network such as the Internet
+    metered self-provisioned IT services accessible over a network
 
 Cloud Computing Characteristics
 
-    - Resource Pooling
-    - Rapid elasticity
-    - Metered usage
-    - Broad access
-    - Self-provisioning
+    - Resource Pooling (compute, network, and storage appears infinite to cloud tenant)
+    - Broad access (a variety of devices can access the cloud resources via the network)
+    - Metered usage (resource usage is tracked and monthly charges are base on the usage)
+    - Rapid elasticity (more virtual machines, more storage, increased virtual machine power)
+    - Self-provisioning (cloud user deploys and manages resources)
     
 Could Computing benefits
 

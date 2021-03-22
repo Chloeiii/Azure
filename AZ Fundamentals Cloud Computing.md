@@ -12,7 +12,11 @@ Cloud Computing Characteristics
     - Metered usage (resource usage is tracked and monthly charges are base on the usage)
     - Rapid elasticity (more virtual machines, more storage, increased virtual machine power)
     - Self-provisioning (cloud user deploys and manages resources)
-    
+   
+
+Virtualization does not mean cloud, and cloud computing requires virtualization
+
+
 Could Computing benefits
 
     - no up-front capital expenditure

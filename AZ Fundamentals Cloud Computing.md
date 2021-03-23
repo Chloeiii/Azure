@@ -99,3 +99,5 @@ Migrating to the Cloud
 
 - IT systems
 - Data
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/

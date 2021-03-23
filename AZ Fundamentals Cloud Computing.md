@@ -69,6 +69,7 @@ Azure Paas (Platform as a Service)
 examples:
 - Azure Active Directory (AAD)
 - Azure SQL Database
+- Windows Virtual Desktop
 - Azure search
 - Azure Content Delivery Network (CDN)
 

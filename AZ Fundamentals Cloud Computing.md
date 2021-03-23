@@ -26,6 +26,12 @@ Could Computing benefits
     - Less on-premises space, power, HVAC
 
 ----
+Community Clouds
+
+	- Government
+	- Pharmaceutical
+	- Financial services
+----
 
 Virtualization types
 

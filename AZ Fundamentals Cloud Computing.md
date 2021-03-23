@@ -87,7 +87,15 @@ examples:
 
 ----
 
+On-premises vs. Public Could
 
+	Public Cloud: CSP data centers
+	Private Cloud: Owned and used by a single organization
+	Configuration flexibility
+	Data privacy
+	Regulatory compliance
 
+Migrating to the Cloud
 
-
+- IT systems
+- Data

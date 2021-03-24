@@ -7,7 +7,7 @@ A resource group is a container that holds related resources for an Azure soluti
 The resource group stores metadata about the resources. Therefore, when you specify a location for the resource group, you are specifying where that metadata is stored. For compliance reasons, you may need to ensure that your data is stored in a particular region.
 
 ----
-#### Azure CLI
+#### Azure CLI (Azure Command Line Interface)
 
 The Azure CLI is a command-line tool providing a great experience for managing Azure resources. The CLI is designed to make scripting easy, query data, support long-running operations, and More.
 

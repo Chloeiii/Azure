@@ -32,7 +32,8 @@ az vm list #get the details of the vm
 
 #### Azure Regions and Availability Zones
 
-Region: Geographical location consisting of one or more Availability Zones. 
+Region: Geographical location consisting of one or more Availability Zones.   
+
 Availability Zones: One or more data centers with high-speed network links, provides high availability within an Azure region.
 
 #### ARM (Azure Resource Manager)

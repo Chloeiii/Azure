@@ -14,10 +14,15 @@ The Azure CLI is a command-line tool providing a great experience for managing A
 ---
 #### Azure Commands
 az
+
 az --version
+
 az --help
+
 az vm --help
+
 az login
+
 az vm list #get the details of the vm 
 
 ----

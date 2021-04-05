@@ -16,3 +16,13 @@ The Azure cloud platform is more than 200 products and cloud services designed t
 [AZ Fundamentals: Azure Data Privacy](AZ%20Fundamentals%20Azure%20Data%20Privacy.md)  
 [AZ Fundamentals: Azure Network Security](AZ%20Fundamentals%20Azure%20Network%20Security.md)  
 [AZ Fundamentals: Azure Security Services](AZ%20Fundamentals%20Azure%20Security%20Services.md)
+
+----
+#### Azure Fundamentals Bootcamp Learning Program  (Microsoft Azure Fundamentals)
+1. Cloud Computing
+2. Managing Azure Services
+3. Subscriptions & ARM
+4. Networking
+5. Databases & Data Analytics
+
+tutorials: https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
